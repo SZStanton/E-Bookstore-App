@@ -31,9 +31,3 @@ Python, SQLite
    ```bash
    python main.py
    ```
-
-## Future Improvements
-
-- Search/filter by author or genre
-- Stock quantity tracking and low-stock alerts
-- Export catalogue to CSV
